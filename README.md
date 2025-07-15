@@ -2,38 +2,26 @@
 This project automates the process of adding and editing employee details on the OrangeHRM demo site using Selenium WebDriver in Java. It showcases handling various web elements such as text boxes, dropdowns, radio buttons, checkboxes, and buttons.
 
 🎯 Key Features
-Login to OrangeHRM using provided credentials
-
-Navigate to the PIM module to add a new employee
-
-Fill out registration details including login info
-
-Edit personal details such as nationality, gender, marital status, and DOB
-
-Handle form elements dynamically using Relative XPath locators
-
-Demonstrate synchronization using waits
-
-Support for multi-browser execution
+1.Login to OrangeHRM using provided credentials
+2.Navigate to the PIM module to add a new employee
+3.Fill out registration details including login info
+4.Edit personal details such as nationality, gender, marital status, and DOB
+5.Handle form elements dynamically using Relative XPath locators
+6.Demonstrate synchronization using waits
+7.Support for multi-browser execution
 
 🚀 How to Run This Project — Step by Step
 🔧 1. Prerequisites
 Before you begin, make sure you have the following installed:
-
 ✅ Java JDK (v8 or above)
-
 ✅ Eclipse IDE / IntelliJ IDEA / any Java IDE
-
 ✅ Maven (if using Maven) or Selenium JARs manually added
-
 ✅ Chrome Browser
-
 ✅ ChromeDriver (compatible with your browser version)
 
 📦 2. Project Setup
-Clone or download the project from GitHub to your local machine
-
-Open the project in your preferred IDE
+* Clone or download the project from GitHub to your local machine
+* Open the project in your preferred IDE
 
 If you're using Maven, your pom.xml should include:
 
